@@ -109,7 +109,7 @@ No additional application is required.
 
 | Autonomous Mode Control UI | Manual Override Control UI |
 | :---: | :---: |
-| ![Autonomous Control Panel](Images/autonomous_website.png) | ![Manual Control Panel](Images/manual_website.png) |
+| ![Autonomous Control Panel](Images/autonomous_website.png) | ![Manual Control Panel](Images/Manual_website.png) |
 
 ---
 
