@@ -1,6 +1,6 @@
 # 🤖 Autonomous Pick-and-Place Robot using ESP32 & ESP32-CAM
 
-![Robot](images/hero.jpg)
+![Robot](Images/hero.jpg)
 
 An autonomous mobile robot capable of detecting, tracking, grasping, and delivering a user-selected colored object using computer vision and embedded systems.
 
