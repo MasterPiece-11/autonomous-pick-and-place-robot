@@ -107,9 +107,9 @@ The ESP32 hosts a built-in web interface allowing users to:
 
 No additional application is required.
 
-> autonomous website
+autonomous website
 ![Robot](Images/autonomous_website.png)
-> Manual website
+Manual website
 ![Robot](Images/Manual_website.png)
 ---
 
