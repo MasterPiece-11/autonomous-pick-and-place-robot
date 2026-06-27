@@ -107,10 +107,10 @@ The ESP32 hosts a built-in web interface allowing users to:
 
 No additional application is required.
 
-autonomous website
-![Robot](Images/autonomous_website.png)
-Manual website
-![Robot](Images/Manual_website.png)
+| Autonomous Mode Control UI | Manual Override Control UI |
+| :---: | :---: |
+| ![Autonomous Control Panel](Images/autonomous_website.png) | ![Manual Control Panel](Images/manual_website.png) |
+
 ---
 
 # 🔄 OTA Updates
